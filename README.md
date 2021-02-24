@@ -46,11 +46,6 @@
         </li>
         <h3>Additional Examples - </h3>
         <br>
-        <img src="./Images/Design_01.jpg" style="height: auto; width: 24%;">
-        <img src="./Images/Grayscale_Design_01.jpg" style="height: auto; width: 24%;">
-        <img src="./Images/Blue_Only_Grayscale_Design_01.jpg" style="height: auto; width: 24%;">
-        <img src="./Images/Negative_Design_01.jpg" style="height: auto; width: 24%;">
-        <br>
         <img src="./Images/Design_02.jpg" style="height: auto; width: 24%;">
         <img src="./Images/Grayscale_Design_02.jpg" style="height: auto; width: 24%;">
         <img src="./Images/Blue_Only_Grayscale_Design_02.jpg" style="height: auto; width: 24%;">
