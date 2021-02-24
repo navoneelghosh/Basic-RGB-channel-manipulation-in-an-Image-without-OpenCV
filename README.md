@@ -1,18 +1,7 @@
 # Basic RGB channel manipulation in an Image without OpenCV
 
 <html>
-<img src="./Images/Grayscale_Design_01.jpg" style="height: auto; width: 24%;">
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-    <!-- The title tag sets the title bar of the web bar -->
-</head>
-
-<body width = "device-width" bgcolor="#ffffff">
-    <!-- The <body> tag lets the browser know that we are beginning the body of the web page.  The bgcolor option sets the background color to the web page -->
-
-    <h1>Basic RGB channel manipulation in an Image without OpenCV</h1>
-
-    <p>
+<p>
     <ol>
         <li>
             Original Image -
@@ -89,8 +78,10 @@
     </ol>
     <br>
     </p>
-
-</body>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <!-- The title tag sets the title bar of the web bar -->
+</head>
 
 </html>
  
