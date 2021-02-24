@@ -2,6 +2,7 @@
 
 <html>
 <p>
+This is done as a part of the CS585 - Image and Video Computation coursework at Boston University.
     <ol>
         <li>
             Original Image -
